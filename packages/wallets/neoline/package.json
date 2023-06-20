@@ -1,6 +1,6 @@
 {
 	"name": "@boxfoxs/neo-wallet-adapter-neoline",
-	"version": "0.4.3",
+	"version": "0.4.4",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
@@ -30,9 +30,9 @@
 	},
 	"dependencies": {},
 	"peerDependencies": {
-		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.4"
 	},
 	"devDependencies": {
-		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.4"
 	}
 }

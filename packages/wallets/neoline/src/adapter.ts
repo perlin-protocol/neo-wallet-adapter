@@ -17,16 +17,16 @@ import {
 	WalletNotConnectedError,
 } from '@boxfoxs/neo-wallet-adapter-base';
 import {
-	NeoLineAccount,
-	NeoLineInit,
+	NeoLineN3Interface,
 	NeoLineInterface,
 	NeoLineN3Init,
-	NeoLineN3Interface,
-	NeoLineNetworks,
+	NeoLineInit,
+	NeoLineAccount,
 	NeoLineReadInvocationResult,
-	NeoLineSignMessageInvocationResult,
 	NeoLineWriteInvocationResult,
-} from '@boxfoxs/neo-wallet-adapter-neoline';
+	NeoLineNetworks,
+	NeoLineSignMessageInvocationResult,
+} from './utils/neoline';
 
 const DEFAULT_WALLET_CONFIG = { options: null };
 
