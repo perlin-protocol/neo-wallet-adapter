@@ -1,6 +1,6 @@
 {
 	"name": "@boxfoxs/neo-wallet-adapter-walletconnect",
-	"version": "0.4.0",
+	"version": "0.4.3",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
@@ -29,11 +29,11 @@
 		"build": "yarn clean && tsc --build tsconfig.json tsconfig.esm.json"
 	},
 	"dependencies": {
-		"@types/pino": "^6.3.11",
-		"better-sqlite3": "^7.6.2",
 		"@cityofzion/wallet-connect-sdk-core": "2.1.0",
+		"@types/pino": "^6.3.11",
 		"@walletconnect/sign-client": "2.0.0-rc.3",
-		"@walletconnect/types": "2.0.0-rc.3"
+		"@walletconnect/types": "2.0.0-rc.3",
+		"better-sqlite3": "^7.6.2"
 	},
 	"peerDependencies": {
 		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
