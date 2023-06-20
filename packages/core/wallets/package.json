@@ -1,6 +1,6 @@
 {
 	"name": "@boxfoxs/neo-wallet-adapter-wallets",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
@@ -29,10 +29,10 @@
 		"build": "yarn clean && tsc --build tsconfig.json tsconfig.esm.json"
 	},
 	"dependencies": {
-		"@boxfoxs/neo-wallet-adapter-walletconnect": "^0.4.0",
 		"@boxfoxs/neo-wallet-adapter-neoline": "^0.4.0",
 		"@boxfoxs/neo-wallet-adapter-o3": "^0.4.0",
-		"@boxfoxs/neo-wallet-adapter-onegate": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-onegate": "^0.4.0",
+		"@boxfoxs/neo-wallet-adapter-walletconnect": "^0.4.0"
 	},
 	"peerDependencies": {
 		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
