@@ -15,7 +15,7 @@ import {
 	WalletDisconnectionError,
 	WalletError,
 	WalletNotConnectedError,
-} from '@rentfuse-labs/neo-wallet-adapter-base';
+} from '@boxfoxs/neo-wallet-adapter-base';
 import {
 	NeoLineAccount,
 	NeoLineInit,
@@ -26,7 +26,7 @@ import {
 	NeoLineReadInvocationResult,
 	NeoLineSignMessageInvocationResult,
 	NeoLineWriteInvocationResult,
-} from './utils/neoline';
+} from '@boxfoxs/neo-wallet-adapter-neoline';
 
 const DEFAULT_WALLET_CONFIG = { options: null };
 

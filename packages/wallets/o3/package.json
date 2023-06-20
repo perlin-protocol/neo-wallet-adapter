@@ -1,12 +1,12 @@
 {
-	"name": "@rentfuse-labs/neo-wallet-adapter-o3",
+	"name": "@boxfoxs/neo-wallet-adapter-o3",
 	"version": "0.4.0",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
 	"sideEffects": false,
 	"main": "lib/index.js",
-	"module": "lib/esm/index.js"
+	"module": "lib/esm/index.js",
 	"esnext": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"exports": {
@@ -32,9 +32,9 @@
 		"neo3-dapi": "^1.0.1"
 	},
 	"peerDependencies": {
-		"@rentfuse-labs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
 	},
 	"devDependencies": {
-		"@rentfuse-labs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
 	}
 }

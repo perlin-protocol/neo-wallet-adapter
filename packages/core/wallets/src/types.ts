@@ -1,4 +1,4 @@
-import { WalletAdapter } from '@rentfuse-labs/neo-wallet-adapter-base';
+import { WalletAdapter } from '@boxfoxs/neo-wallet-adapter-base';
 
 export enum WalletName {
 	NeoLine = 'NeoLine',

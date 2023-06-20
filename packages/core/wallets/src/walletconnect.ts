@@ -1,7 +1,7 @@
 import {
 	WalletConnectWalletAdapter,
 	WalletConnectWalletAdapterConfig,
-} from '@rentfuse-labs/neo-wallet-adapter-walletconnect';
+} from '@boxfoxs/neo-wallet-adapter-walletconnect';
 import { Wallet, WalletName } from './types';
 
 export const getWalletConnectWallet = (config: WalletConnectWalletAdapterConfig): Wallet => ({

@@ -1,4 +1,4 @@
-# `@rentfuse-labs/neo-wallet-adapter-wallets`
+# `@boxfoxs/neo-wallet-adapter-wallets`
 
 <!-- @TODO -->
 

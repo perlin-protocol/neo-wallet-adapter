@@ -1,12 +1,12 @@
 {
-	"name": "@rentfuse-labs/neo-wallet-adapter-walletconnect",
+	"name": "@boxfoxs/neo-wallet-adapter-walletconnect",
 	"version": "0.4.0",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
 	"sideEffects": false,
 	"main": "lib/index.js",
-	"module": "lib/esm/index.js"
+	"module": "lib/esm/index.js",
 	"esnext": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"exports": {
@@ -36,9 +36,9 @@
 		"@walletconnect/types": "2.0.0-rc.3"
 	},
 	"peerDependencies": {
-		"@rentfuse-labs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
 	},
 	"devDependencies": {
-		"@rentfuse-labs/neo-wallet-adapter-base": "^0.4.0"
+		"@boxfoxs/neo-wallet-adapter-base": "^0.4.0"
 	}
 }

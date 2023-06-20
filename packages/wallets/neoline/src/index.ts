@@ -1,1 +1,1 @@
-export * from './adapter';
+export * from '@boxfoxs/neo-wallet-adapter-neoline';
