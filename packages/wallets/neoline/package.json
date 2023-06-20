@@ -1,6 +1,6 @@
 {
 	"name": "@boxfoxs/neo-wallet-adapter-neoline",
-	"version": "0.4.2",
+	"version": "0.4.3",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
 	"license": "Apache-2.0",
