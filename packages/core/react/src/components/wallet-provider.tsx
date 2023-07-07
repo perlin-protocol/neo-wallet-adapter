@@ -35,13 +35,15 @@ export const WalletProvider = React.memo(function WalletProvider({
 	wallets,
 	autoConnect = false,
 	onError: _onError = (error: WalletError) => console.error(error),
+	defaultWallet = null,
 }: {
 	children: ReactNode;
 	wallets: Wallet[];
 	autoConnect?: boolean;
 	onError?: (error: WalletError) => void;
+	defaultWallet?: WalletName | null;
 }) {
-	const [name, setName] = useState<WalletName | null>(null);
+	const [name, setName] = useState<WalletName | null>(defaultWallet);
 	// The main state of the wallet provider
 	const [{ wallet, adapter, ready, address, connected }, setState] =
 		useState<WalletProviderState>(WALLET_INITIAL_STATE);
