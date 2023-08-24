@@ -1,5 +1,5 @@
 {
-	"name": "@perlin/neo-wallet-adapter-react",
+	"name": "@perlin-protocol/neo-wallet-adapter-react",
 	"version": "0.4.5",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
@@ -29,13 +29,13 @@
 		"build": "yarn clean && tsc --build tsconfig.json tsconfig.esm.json"
 	},
 	"peerDependencies": {
-		"@perlin/neo-wallet-adapter-base": "^0.4.4",
-		"@perlin/neo-wallet-adapter-wallets": "^0.4.4",
+		"@perlin-protocol/neo-wallet-adapter-base": "^0.4.4",
+		"@perlin-protocol/neo-wallet-adapter-wallets": "^0.4.4",
 		"react": "^17.0.2"
 	},
 	"devDependencies": {
-		"@perlin/neo-wallet-adapter-base": "^0.4.4",
-		"@perlin/neo-wallet-adapter-wallets": "^0.4.4",
+		"@perlin-protocol/neo-wallet-adapter-base": "^0.4.4",
+		"@perlin-protocol/neo-wallet-adapter-wallets": "^0.4.4",
 		"@types/react": "^17.0.24",
 		"react": "^17.0.2"
 	}

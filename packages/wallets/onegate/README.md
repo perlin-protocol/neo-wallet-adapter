@@ -1,4 +1,4 @@
-# `@perlin/neo-wallet-adapter-onegate`
+# `@perlin-protocol/neo-wallet-adapter-onegate`
 
 <!-- @TODO -->
 

@@ -1,4 +1,4 @@
-import { WalletAdapter } from '@perlin/neo-wallet-adapter-base';
+import { WalletAdapter } from '@perlin-protocol/neo-wallet-adapter-base';
 
 export enum WalletName {
 	NeoLine = 'NeoLine',

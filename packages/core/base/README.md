@@ -1,4 +1,4 @@
-# `@perlin/neo-wallet-adapter-base`
+# `@perlin-protocol/neo-wallet-adapter-base`
 
 <!-- @TODO -->
 

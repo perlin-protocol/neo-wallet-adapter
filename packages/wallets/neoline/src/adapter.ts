@@ -15,7 +15,7 @@ import {
 	WalletDisconnectionError,
 	WalletError,
 	WalletNotConnectedError,
-} from '@perlin/neo-wallet-adapter-base';
+} from '@perlin-protocol/neo-wallet-adapter-base';
 import {
 	NeoLineN3Interface,
 	NeoLineInterface,

@@ -1,5 +1,5 @@
 {
-	"name": "@perlin/neo-wallet-adapter-onegate",
+	"name": "@perlin-protocol/neo-wallet-adapter-onegate",
 	"version": "0.4.4",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
@@ -33,9 +33,9 @@
 		"@neongd/neo-provider": "^1.0.1"
 	},
 	"peerDependencies": {
-		"@perlin/neo-wallet-adapter-base": "^0.4.4"
+		"@perlin-protocol/neo-wallet-adapter-base": "^0.4.4"
 	},
 	"devDependencies": {
-		"@perlin/neo-wallet-adapter-base": "^0.4.4"
+		"@perlin-protocol/neo-wallet-adapter-base": "^0.4.4"
 	}
 }

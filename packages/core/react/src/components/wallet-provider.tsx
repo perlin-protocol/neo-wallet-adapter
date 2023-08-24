@@ -8,8 +8,8 @@ import {
 	WalletNotConnectedError,
 	WalletNotReadyError,
 	SignMessageInvocation,
-} from '@perlin/neo-wallet-adapter-base';
-import { Wallet, WalletName } from '@perlin/neo-wallet-adapter-wallets';
+} from '@perlin-protocol/neo-wallet-adapter-base';
+import { Wallet, WalletName } from '@perlin-protocol/neo-wallet-adapter-wallets';
 import React, { ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { WalletNotSelectedError } from '../utils/errors';
 import { WalletContext } from '../hooks/use-wallet';

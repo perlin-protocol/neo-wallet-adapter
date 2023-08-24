@@ -1,4 +1,4 @@
-import { O3WalletAdapter, O3WalletAdapterConfig } from '@perlin/neo-wallet-adapter-o3';
+import { O3WalletAdapter, O3WalletAdapterConfig } from '@perlin-protocol/neo-wallet-adapter-o3';
 import { Wallet, WalletName } from './types';
 
 export const getO3Wallet = (config?: O3WalletAdapterConfig): Wallet => ({
