@@ -1,4 +1,4 @@
-# `@boxfoxs/neo-wallet-adapter-walletconnect`
+# `@perlin/neo-wallet-adapter-walletconnect`
 
 <!-- @TODO -->
 

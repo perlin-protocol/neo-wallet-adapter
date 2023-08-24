@@ -7,7 +7,7 @@
 1 notice cli v4.0.0
 2 verbose rootPath /Users/boxfox/Desktop/projects/neo-wallet-adapter
 3 info versioning independent
-4 error JSONError: Unexpected string in JSON at position 284 while parsing '{@boxfoxs
+4 error JSONError: Unexpected string in JSON at position 284 while parsing '{@perlin
 	"name": "@rentfuse-labs/neo-wallet-a' in packages/wallets/o3/package.json
 4 error
 4 error [0m [90m  8 |[39m 	[32m"main"[39m[33m:[39m [32m"lib/index.js"[39m[33m,[39m[0m

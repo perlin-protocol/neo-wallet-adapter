@@ -15,7 +15,7 @@ import {
 	WalletDisconnectionError,
 	WalletError,
 	WalletNotConnectedError,
-} from '@boxfoxs/neo-wallet-adapter-base';
+} from '@perlin/neo-wallet-adapter-base';
 import {
 	NeoLineN3Interface,
 	NeoLineInterface,

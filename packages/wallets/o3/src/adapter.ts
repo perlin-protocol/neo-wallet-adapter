@@ -12,7 +12,7 @@ import {
 	WalletAccountError,
 	WalletDisconnectedError,
 	WalletDisconnectionError,
-} from '@boxfoxs/neo-wallet-adapter-base';
+} from '@perlin/neo-wallet-adapter-base';
 import neo3Dapi from 'neo3-dapi';
 
 const DEFAULT_WALLET_CONFIG = { options: null };

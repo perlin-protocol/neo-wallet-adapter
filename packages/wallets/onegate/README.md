@@ -1,4 +1,4 @@
-# `@boxfoxs/neo-wallet-adapter-onegate`
+# `@perlin/neo-wallet-adapter-onegate`
 
 <!-- @TODO -->
 

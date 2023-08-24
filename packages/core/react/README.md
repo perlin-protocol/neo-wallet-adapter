@@ -1,4 +1,4 @@
-# `@boxfoxs/neo-wallet-adapter-react`
+# `@perlin/neo-wallet-adapter-react`
 
 <!-- @TODO -->
 

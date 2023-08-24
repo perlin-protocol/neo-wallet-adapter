@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@boxfoxs/neo-wallet-adapter-ant-design/-/neo-wallet-adapter-ant-design-0.4.0.tgz: Request failed "404 Not Found"
+  Error: https://registry.yarnpkg.com/@perlin/neo-wallet-adapter-ant-design/-/neo-wallet-adapter-ant-design-0.4.0.tgz: Request failed "404 Not Found"
       at ResponseError.ExtendableBuiltin (/usr/local/lib/node_modules/yarn/lib/cli.js:696:66)
       at new ResponseError (/usr/local/lib/node_modules/yarn/lib/cli.js:802:124)
       at Request.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:67057:16)
@@ -29,7 +29,7 @@ Trace:
 npm manifest: 
   {
   	"private": true,
-  	"name": "@boxfoxs/neo-wallet-adapter",
+  	"name": "@perlin/neo-wallet-adapter",
   	"author": "Rentfuse Labs",
   	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
   	"license": "Apache-2.0",
@@ -1503,9 +1503,9 @@ Lockfile:
     dependencies:
       "@octokit/openapi-types" "^11.2.0"
   
-  "@boxfoxs/neo-wallet-adapter-ant-design@^0.4.0":
+  "@perlin/neo-wallet-adapter-ant-design@^0.4.0":
     version "0.4.0"
-    resolved "https://registry.yarnpkg.com/@boxfoxs/neo-wallet-adapter-ant-design/-/neo-wallet-adapter-ant-design-0.4.0.tgz#70d96987afd07b659ed55d9e10aa12f17f30d340"
+    resolved "https://registry.yarnpkg.com/@perlin/neo-wallet-adapter-ant-design/-/neo-wallet-adapter-ant-design-0.4.0.tgz#70d96987afd07b659ed55d9e10aa12f17f30d340"
     integrity sha512-NIl6NiiKSnu6WjhHbS2W9jxtg43yFgPGkuXt5StIAly+pk8y/83kjEk1YYojws0k3epRfRz11YQjiX5RD/D/hg==
   
   "@rushstack/eslint-patch@^1.0.6":

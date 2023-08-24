@@ -1,5 +1,5 @@
 {
-	"name": "@boxfoxs/neo-wallet-adapter-bundle",
+	"name": "@perlin/neo-wallet-adapter-bundle",
 	"version": "0.4.4",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
@@ -20,7 +20,7 @@
 		"build": "yarn clean && yarn cdn"
 	},
 	"dependencies": {
-		"@boxfoxs/neo-wallet-adapter-base": "^0.4.4",
-		"@boxfoxs/neo-wallet-adapter-wallets": "^0.4.4"
+		"@perlin/neo-wallet-adapter-base": "^0.4.4",
+		"@perlin/neo-wallet-adapter-wallets": "^0.4.4"
 	}
 }

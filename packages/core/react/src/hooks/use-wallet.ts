@@ -1,5 +1,5 @@
-import { WalletAdapter, WalletAdapterProps } from '@boxfoxs/neo-wallet-adapter-base';
-import { Wallet, WalletName } from '@boxfoxs/neo-wallet-adapter-wallets';
+import { WalletAdapter, WalletAdapterProps } from '@perlin/neo-wallet-adapter-base';
+import { Wallet, WalletName } from '@perlin/neo-wallet-adapter-wallets';
 import { createContext, useContext } from 'react';
 
 // Extend wallet adapter props with other useful variables

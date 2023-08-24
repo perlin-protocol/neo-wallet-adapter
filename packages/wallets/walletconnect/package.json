@@ -1,5 +1,5 @@
 {
-	"name": "@boxfoxs/neo-wallet-adapter-walletconnect",
+	"name": "@perlin/neo-wallet-adapter-walletconnect",
 	"version": "0.4.4",
 	"author": "Rentfuse Labs",
 	"repository": "https://github.com/rentfuse-labs/neo-wallet-adapter",
@@ -36,9 +36,9 @@
 		"better-sqlite3": "^7.6.2"
 	},
 	"peerDependencies": {
-		"@boxfoxs/neo-wallet-adapter-base": "^0.4.4"
+		"@perlin/neo-wallet-adapter-base": "^0.4.4"
 	},
 	"devDependencies": {
-		"@boxfoxs/neo-wallet-adapter-base": "^0.4.4"
+		"@perlin/neo-wallet-adapter-base": "^0.4.4"
 	}
 }

@@ -15,7 +15,7 @@ import {
 	WalletDisconnectionError,
 	WalletError,
 	WalletNotConnectedError,
-} from '@boxfoxs/neo-wallet-adapter-base';
+} from '@perlin/neo-wallet-adapter-base';
 import SignClient from '@walletconnect/sign-client';
 import { SignClientTypes } from '@walletconnect/types';
 
